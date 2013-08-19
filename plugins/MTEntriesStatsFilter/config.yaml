@@ -1,10 +1,10 @@
-name: MTEntriesStatsFilter
-id  : MTEntriesStatsFilter
-key:  mtentriesstatsfilter
+name: MTEntriesStatusFilter
+id  : MTEntriesStatusFilter
+key:  mtentriesstatusfilter
 version: 0.1
 author_link: http://alfasado.net/
 author_name: Alfasado Inc.
-l10n_class: MTEntriesStatsFilter::L10N
+l10n_class: MTEntriesStatusFilter::L10N
 description: <__trans phrase="Add status_filter modifier to MTEntries.">
 tags:
     filters:
