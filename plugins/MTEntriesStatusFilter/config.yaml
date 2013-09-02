@@ -30,5 +30,8 @@ tags:
                             } else {
                                 $terms->{ status } = \@status;
                             }
+                            $terms->{ id } = { op => '>',
+                                               value => 0,
+                                             };
                         }
                     }
